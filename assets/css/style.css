@@ -10,6 +10,10 @@ form{
     margin-bottom: 7rem;
 }
 
+main .container{
+    margin-top: 3rem
+}
+
 .infos{
     display: flex;
     align-items: center;
